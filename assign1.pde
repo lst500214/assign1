@@ -77,8 +77,8 @@ void draw() {
 }
 
 /*
-question?
-What's the difference between
+notice:
+The difference between
 
   indexOne++;
   indexOne %= width*2;
